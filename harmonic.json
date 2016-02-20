@@ -1,0 +1,25 @@
+{
+  "name": "Vitor Nogueira",
+  "title": "Vitor Nogueira",
+  "domain": "https://vitornogueira.github.io",
+  "subtitle": "Powered by Harmonic",
+  "author": "Vitor Nogueira",
+  "description": "Blog sobre desenvolvimento web",
+  "bio": "Hi :)",
+  "theme": "harmonic-theme-vitor",
+  "preprocessor": "stylus",
+  "posts_permalink": ":language/:year/:month/:title",
+  "pages_permalink": ":language/pages/:title",
+  "header_tokens": [
+    "<!--",
+    "-->"
+  ],
+  "index_posts": 10,
+  "i18n": {
+    "default": "pt-br",
+    "languages": [
+      "en",
+      "pt-br"
+    ]
+  }
+}
