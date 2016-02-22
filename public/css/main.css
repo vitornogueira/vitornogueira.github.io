@@ -1,0 +1,61 @@
+.center {
+  max-width: 720px;
+  padding: 1rem;
+  margin: 0 auto;
+}
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #333;
+}
+a {
+  text-decoration: none;
+  color: #38d;
+}
+a:hover {
+  text-decoration: underline;
+}
+.header-title {
+  margin: 1em 0 0;
+  font-size: 1.8em;
+  line-height: 1.8em;
+  text-align: center;
+  color: #38d;
+}
+.navigation {
+  text-align: center;
+}
+.navigation-item {
+  display: inline-block;
+  padding: 10px;
+  font-size: 1.1em;
+  text-decoration: none;
+  color: #333;
+}
+.navigation-item:hover {
+  color: #38d;
+}
+.content p {
+  font-size: 1.2em;
+  line-height: 1.8;
+}
+.content-title {
+  margin: 0 0 0.4em;
+  border-bottom: 2px dashed #ccc;
+  font-size: 3em;
+}
+.posts .post {
+  margin: 30px 0;
+  border-bottom: 1px dashed #ccc;
+}
+.posts .post p {
+  font-size: 1.2em;
+  line-height: 1.8;
+}
+.posts .post-title {
+  border-bottom: 0;
+  font-size: 2.2em;
+}
+.posts .post-description {
+  margin: 0 0 30px;
+  font-size: 1.3em;
+}
